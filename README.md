@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-username>/interview-outline ~/.claude/skills/interview-outline
+git clone https://github.com/malulile-sudo/interview-outline ~/.claude/skills/interview-outline
 ```
 
 重启 Claude Code，让它扫描新 skill。
